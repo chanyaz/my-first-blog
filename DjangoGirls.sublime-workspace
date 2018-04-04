@@ -1,0 +1,320 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"se",
+				"settings\tinstance"
+			],
+			[
+				"set",
+				"settings\tstatement"
+			],
+			[
+				"a",
+				"abspath"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"assetNo",
+				"assertNotEqual"
+			],
+			[
+				"find",
+				"find_element_by_id\tfunction"
+			],
+			[
+				"ge",
+				"get_full_url\tfunction"
+			],
+			[
+				"t",
+				"today\tfunction"
+			],
+			[
+				"te",
+				"text\tfunction"
+			],
+			[
+				"asse",
+				"assertEqual\tfunction"
+			],
+			[
+				"url",
+				"url\tfunction"
+			],
+			[
+				"ugett",
+				"ugettext_lazy\tstatement"
+			],
+			[
+				"conte",
+				"content_type\tparam"
+			],
+			[
+				"req",
+				"request"
+			],
+			[
+				"home",
+				"home_files\tmodule"
+			],
+			[
+				"assertN",
+				"assertNotIn\tfunction"
+			],
+			[
+				"Stat",
+				"StaticLiveServerTestCase\tclass"
+			],
+			[
+				"r",
+				"rgba()"
+			],
+			[
+				"cl",
+				"client\tstatement"
+			],
+			[
+				"view",
+				"views"
+			],
+			[
+				"b",
+				"browser"
+			],
+			[
+				"im",
+				"implicitly_wait\tfunction"
+			],
+			[
+				"Ba",
+				"BASE_DIR\tstatement"
+			],
+			[
+				"SEC",
+				"SECRET_KEY"
+			],
+			[
+				"get",
+				"get_env_var\tfunction"
+			],
+			[
+				"Sec",
+				"SECRET_KEY"
+			],
+			[
+				"con",
+				"configs\tparam"
+			],
+			[
+				"Im",
+				"ImproperlyConfigured"
+			],
+			[
+				"Ke",
+				"KeyError\tclass"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 137.0,
+		"last_filter": "install",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"pacl",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 444.0
+	},
+	"console":
+	{
+		"height": 130.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/Sekar/Workouts/djangogirls_project"
+	],
+	"file_history":
+	[
+		"/D/Sekar/Workouts/taskbuster_project/taskbuster/views.py",
+		"/D/Sekar/Workouts/taskbuster_project/taskbuster/templates/base.html",
+		"/D/Sekar/Workouts/taskbuster_project/taskbuster/settings/base.py",
+		"/D/Sekar/Workouts/taskbuster_project/taskbuster/test.py",
+		"/D/Sekar/Workouts/taskbuster_project/functional_tests/test_all_users.py",
+		"/D/Sekar/Workouts/taskbuster_project/taskbuster/urls.py",
+		"/D/Sekar/Workouts/taskbuster_project/taskbuster/templates/robots.txt",
+		"/D/Sekar/Workouts/taskbuster_project/taskbuster/templates/humans.txt",
+		"/D/Sekar/Workouts/taskbuster_project/taskbuster/templates/taskbuster/index.html",
+		"/C/Users/Ascenso/Downloads/gettext-0.19.8.1/gettext-0.19.8.1/windows/windres-options",
+		"/C/Users/Ascenso/Downloads/gettext-0.19.8.1/gettext-0.19.8.1/windows/gettext.rc",
+		"/D/Sekar/Workouts/taskbuster_project/taskbuster/locale/ca/LC_MESSAGES/django.po",
+		"/D/Sekar/Workouts/taskbuster_project/requirements/testing.txt",
+		"/D/Sekar/Workouts/taskbuster_project/taskbuster/static/css/main.css",
+		"/D/Sekar/Workouts/taskbuster_project/functional_tests/all_users.py",
+		"/D/Sekar/Workouts/.configs/taskbuster_config.json",
+		"/D/Sekar/Workouts/taskbuster_project/.gitignore",
+		"/C/Users/Ascenso/Envs/tb_test/Scripts/activate.bat",
+		"/C/Users/Ascenso/Envs/tb_dev/Scripts/activate.bat",
+		"/D/Sekar/Workouts/taskbuster_project/taskbuster/settings/development.py",
+		"/D/Sekar/Workouts/taskbuster_project/taskbuster/settings/testing.py",
+		"/D/Sekar/Workouts/taskbuster_project/taskbuster/settings/production.py",
+		"/D/Sekar/Workouts/taskbuster_project/taskbuster/settings/staging.py",
+		"/C/Users/Ascenso/Envs/tb_test/Scripts/deactivate.bat",
+		"/C/Users/Ascenso/Envs/tb_dev/Scripts/deactivate.bat",
+		"/C/Users/Ascenso/Desktop/activate.bat",
+		"/C/Users/Ascenso/AppData/Roaming/Sublime Text 3/Packages/User/Plain text.sublime-settings"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "DjangoGirls.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 212.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
